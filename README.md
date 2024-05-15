@@ -18,8 +18,18 @@ Testing and acquisition of the mortar training data are included in the file "Mo
 
 Examples regarding the use of the functions are added under the __name__=="__main__" in each file.
 
-## The code for the exploratory analysis of the brick spectra are added in:
+## Code for exploratory analyse of bricks' physical and spectral properties
+ - Correlation matrix - Physical Properties.ipynb
+ - Explorative analysis - Physical Properties.ipynb
+ - Explorative analysis - Dried brick spectra.ipynb
+   
+## Assignment of normally distributed values to the spectra
+- Make dataset with norm.dist. values.ipynb
 
-The code for the development of the prediction models are:
+## Classification based on spectral properties
+- Classification based on spectral properties.ipynb
 
-Note: the files are added as examples, code which were developed and not used are excluded. 
+## Example of prediction model development
+- Example Prediction - Predicting FR.ipynb
+
+Note: the files are added as examples. Code which was developed, but not used, is excluded. 
