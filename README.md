@@ -3,6 +3,15 @@
 This repository contains the files necessary for the pre-processing of brick images. In addition, example files regarding the explorative analysis of the bricks' physical and spectral data are added.
 
 The following files describe the pre-processing of the hyperspectral images:
+- ImportImagesFunctions.py
+- SaveLoadDictionaries.py
+- PreprocessingFunctions.py
+- - MakeBloksFunctions.py
+- StreamLineFunction.py
+- SNVProcessingFunctions.py
+- MSCProcessingFunctions.py
+- MortarRemovalFunctions
+
 
 Examples regarding the use of the functions are added under the __name__=="__main__" in each files.
 
