@@ -14,7 +14,7 @@ The following files describe the pre-processing of the hyperspectral images:
 
 The file "StreamlineFunction.py" handles the entire processing from import of images to generation of mean spectra. However, the preprocessing of the generated spectra are executed through "SNVProcessingFunctions.py" or "MSCProcessingFunctions.py".
 
-Testing and acquisition of the mortar training data are included in the file "Mortar Removal Testing both Models". It includes testing of both the K-menas clustering model and PLS-DA model. The datasets with the mortar and non-mortar spectral samples have been uploaded to the Teams-group of the Master Thesis project.
+Testing and acquisition of the mortar training data are included in the file "Mortar Removal Testing both Models". It includes testing of both the K-means clustering model and PLS-DA model. The datasets with the mortar and non-mortar spectral samples have been uploaded to the Teams-group of the Master Thesis project.
 
 Examples regarding the use of the functions are added under the __name__=="__main__" in each file.
 
